@@ -81,8 +81,5 @@ For any questions or further inquiries, please reach out through:
 - GitHub Issues: [MultiAgent-MedQA Issues](https://github.com/VijayendraDwari/MultiAgent-MedQA/issues)
 - Email: [vijayendra.dwari@gmail.com]
 
-## Acknowledgements
-Special thanks to all the contributors and open-source projects that made MultiAgent-MedQA possible.
-
 ---
 *MultiAgent-MedQA strives to provide robust and reliable medical insights using innovative AI-driven approaches. Your feedback and contributions are valuable in enhancing the system further.*
