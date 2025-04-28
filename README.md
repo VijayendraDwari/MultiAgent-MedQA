@@ -4,6 +4,9 @@ This project implements a Multi-Agent Medical QA System designed to handle text-
 ## Overview
 MultiAgent-MedQA is a cutting-edge system designed to address two crucial aspects of medical inquiry: processing text-based medical questions and analyzing X-ray images to provide accurate, detailed insights. This project leverages the power of multiple specialized agents to deliver robust responses to varied medical queries.
 
+## Architecture
+![System Architecture](./diagram-MedQA.png)
+
 ## Features
 - **Dual-Agent Architecture:**  
   - *Text QA Agent:* Handles natural language medical questions and provides evidence-based responses.
