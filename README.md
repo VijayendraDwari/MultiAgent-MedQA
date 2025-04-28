@@ -16,18 +16,7 @@ MultiAgent-MedQA is a cutting-edge system designed to address two crucial aspect
   The project is implemented entirely in Jupyter Notebook, making it easy to experiment with and iterate on models interactively.
 
 ## Project Structure
-Below is an outline of the repository structure:
-```
-MultiAgent-MedQA/
-├── notebooks/
-│   ├── Text_QA_Agent.ipynb   # Notebook detailing the text QA agent's implementation and usage.
-│   └── XRay_Analysis_Agent.ipynb   # Notebook for the implementation of the X-ray image analysis agent.
-├── data/
-│   └── sample_data/          # Sample data and test examples for both agents.
-├── docs/
-│   └── additional_documentation.md   # More detailed documentation and design notes.
-└── README.md                 # This file.
-```
+
 
 ## Requirements
 Before running the project, please ensure you have the following installed:
