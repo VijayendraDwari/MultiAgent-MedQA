@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or further inquiries, please reach out through:
 - GitHub Issues: [MultiAgent-MedQA Issues](https://github.com/VijayendraDwari/MultiAgent-MedQA/issues)
-- Email: [your-email@example.com](vijayendra.dwari@gmail.com)
+- Email: [vijayendra.dwari@gmail.com]
 
 ## Acknowledgements
 Special thanks to all the contributors and open-source projects that made MultiAgent-MedQA possible.
