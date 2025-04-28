@@ -1,4 +1,11 @@
 # MultiAgent-MedQA
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![LangChain](https://img.shields.io/badge/LangChain-latest-green)
+![Llama](https://img.shields.io/badge/Llama-3.1--8B-red)
+![Unsloth](https://img.shields.io/badge/Unsloth-latest-blueviolet)
+![Phi4](https://img.shields.io/badge/Phi4-latest-orange)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 This project implements a Multi-Agent Medical QA System designed to handle text-based medical queries and analyze X-ray images to provide accurate and detailed insights. The system consists of two specialized agents.
 
 ## Overview
